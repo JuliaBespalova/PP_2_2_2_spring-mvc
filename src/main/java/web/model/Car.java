@@ -6,7 +6,6 @@ public class Car {
     private int years;
     private String model;
     private String color;
-    private CarService carService;
 
 
     public Car(int years, String model, String color) {
